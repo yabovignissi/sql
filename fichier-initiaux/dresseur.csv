@@ -1,0 +1,13 @@
+ID;Nom;Prenom;Genre;professeur_id;Est Professeur
+1;Anderson;Ethan;Homme;;Oui
+2;Martinez;Daniel;Homme;1;Non
+3;Johnson;Olivia;Femme;;Oui
+11;Clark;Mia;Femme;;Oui
+4;Nguyen;Isabella;Femme;11;Non
+5;Smith;Michael;Homme;;Oui
+12;Hall;Charlotte;Femme;;Oui
+6;García;Michel;Homme;12;Non
+7;Williams;James;Homme;;Non
+8;Rodriguez;Lucas;Homme;;Non
+9;Brown;Sophia;Femme;5;Non
+10;Patel;Harper;Femme;3;Non

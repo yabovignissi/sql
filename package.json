@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "node ./connectdatabase.js"
+    
+  },
+  "dependencies": {
+    "csv": "^6.3.8",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.9.2",
+    "parser": "^0.1.4"
+  }
+}

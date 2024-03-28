@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `monstermon`.`Espece` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `Nom` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`id`)
+)
+
